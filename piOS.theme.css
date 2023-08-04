@@ -10,7 +10,7 @@
  * @donate https://ko-fi.com/saltssaumure
 */
 
-@import url("https://saltssaumure.github.io/pios-discord-theme/pios.min.css");
+@import url("https://raw.githubusercontent.com/PSXHACKER123/pios-discord-theme/main/piOS.theme.css");
 
 /* See https://github.com/Saltssaumure/pios-discord-theme#customisation for customisation settings. */
 :root {
@@ -26,7 +26,7 @@
 }
 
 .theme-dark {
-    --pios-background-color:    #000000;
+    --pios-background-color:    #000001;
     --pios-bright-color:        #FFFFFF;
     --pios-middle-color:        #D3D3D3;
     --pios-dim-color:           #808080;
@@ -34,7 +34,7 @@
 
 .theme-light {
     --pios-background-color:    #FFFFFF;
-    --pios-bright-color:        #000000;
+    --pios-bright-color:        #011000;
     --pios-middle-color:        #696969;
     --pios-dim-color:           #A9A9A9;
 }
